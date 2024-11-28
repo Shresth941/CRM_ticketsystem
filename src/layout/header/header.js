@@ -34,7 +34,7 @@ export const Header = () => {
         {/* Collapsible Links */}
         <Navbar.Collapse id="basic-navbar-nav">
           <Nav className="ms-auto">
-             <Nav.Link href="/dashboard" className="px-3">
+             <Nav.Link href="/" className="px-3">
               Dashboard
             </Nav.Link>
             <Nav.Link href="/tickets" className="px-3">
